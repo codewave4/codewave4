@@ -11,19 +11,17 @@
 
 `codewave4@github:~$ ./translify --from=fa --to=world 🌐`
 
-</div>
-
-<p align="center">
-  🌐 Creator of <b>Translify</b> — fast & private web translator<br/>
-  ⚡ Building clean tools with vanilla JS — no servers, no trackers<br/>
-  🇮🇷 Persian developer
-</p>
+ Creator of **Translify** — fast & private web translator
+⚡ Building clean tools with vanilla JS — no servers, no trackers
+🇮🇷 Persian developer
 
 <p align="center">
   <a href="https://codewave4.github.io/zabanpeik/"><img src="https://img.shields.io/badge/🌐_Portfolio-Translify-00e676?style=flat-square"/></a>
   <a href="https://github.com/codewave4?tab=followers"><img src="https://img.shields.io/github/followers/codewave4?label=Followers&style=flat-square&color=00e676"/></a>
   <img src="https://img.shields.io/github/stars/codewave4?affiliation=owner&label=Total%20Stars&style=flat-square&color=00e676"/>
 </p>
+
+</div>
 
 ---
 
@@ -66,33 +64,18 @@
 
 ---
 
-### 📊 python github-stats.py
+### 🌐 ./translify --say hello
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=codewave4&show_icons=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=9da5b0&border_color=30363d"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewave4&layout=compact&bg_color=0d1117&title_color=00e676&text_color=9da5b0&border_color=30363d"/>
+  <img src="assets/translate-terminal.svg" alt="hello in many languages" width="720"/>
 </p>
+
+---
+
+### 🔥 python github-stats.py
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codewave4&theme=github-dark&ring=00e676&fire=00e676&currStreakLabel=00e676"/>
-</p>
-
----
-
-### 🏆 cat trophies.md
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewave4&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-### 🐍 python snake.py
-
-> Watch me eat my contributions!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewave4/codewave4/output/github-snake.svg"/>
 </p>
 
 ---
@@ -101,7 +84,7 @@
 
 <p align="center">
   <a href="https://github.com/codewave4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/DeepRed_Code"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
