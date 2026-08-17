@@ -80,26 +80,6 @@
 
 ---
 
-### 🖥️ neofetch
-
-```text
-   🌐  codewave4@github
-  ────────────────────────────
-   OS:      GitHub Pages (web)
-   Host:    Translify
-   Kernel:  Vanilla JS — no framework
-   Shell:   bash
-   Uptime:  since 2026
-  ────────────────────────────
-   HTML  ██████████  100%
-   CSS   ████████░░   85%
-   JS    ███████░░░   80%
-  ────────────────────────────
-   🟩🟩⬛⬛
-```
-
----
-
 ### 🔥 python github-stats.py
 
 <p align="center">
