@@ -19,6 +19,7 @@
   <a href="https://codewave4.github.io/zabanpeik/"><img src="https://img.shields.io/badge/🌐_Portfolio-Translify-00e676?style=flat-square"/></a>
   <a href="https://github.com/codewave4?tab=followers"><img src="https://img.shields.io/github/followers/codewave4?label=Followers&style=flat-square&color=00e676"/></a>
   <img src="https://img.shields.io/github/stars/codewave4?affiliation=owner&label=Total%20Stars&style=flat-square&color=00e676"/>
+  <img src="https://komarev.com/ghpvc/?username=codewave4&style=flat-square&color=00e676&label=Profile+Views"/>
 </p>
 
 </div>
@@ -62,6 +63,13 @@
   </tr>
 </table>
 
+<details>
+<summary>📊 نمودار ستاره‌های Translify</summary>
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=codewave4/zabanpeik&type=Date"/>
+</p>
+</details>
+
 ---
 
 ### 🌐 ./translify --say hello
@@ -72,11 +80,35 @@
 
 ---
 
+### 🗺️ cat journey.log
+
+<p align="center">
+  <img src="assets/journey-timeline.svg" alt="مسیر من" width="720"/>
+</p>
+
+---
+
 ### 🔥 python github-stats.py
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codewave4&theme=github-dark&ring=00e676&fire=00e676&currStreakLabel=00e676"/>
 </p>
+
+---
+
+### 📈 cat activity-graph.md
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewave4&bg_color=050807&color=9da5b0&line=00e676&point=00e676&area=true&hide_border=true&radius=6"/>
+</p>
+
+---
+
+### 🎧 cat now.md
+
+| 🔨 Building | 📚 Learning | 🎯 Goal |
+|:-----------:|:-----------:|:-------:|
+| پورتفولیوی شخصی | PWA و Service Worker | وبِ خصوصی برای فارسی‌زبان‌ها |
 
 ---
 
