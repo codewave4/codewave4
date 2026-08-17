@@ -6,7 +6,7 @@
 ██████╔╝█████╗  ██║  ██║
 ██╔══██╗██╔══╝  ██║  ██║
 ██║  ██║███████╗██████╔╝
-═╝  ╚═╝╚══════╝╚═════╝
+╚═╝  ╚═╝╚══════╝╚═════╝
 ```
 
 `codewave4@github:~$ ./translify --from=fa --to=world 🌐`
@@ -80,11 +80,23 @@
 
 ---
 
-### 🗺️ cat journey.log
+### 🖥️ neofetch
 
-<p align="center">
-  <img src="assets/journey-timeline.svg" alt="مسیر من" width="715"/>
-</p>
+```text
+   🌐  codewave4@github
+  ────────────────────────────
+   OS:      GitHub Pages (web)
+   Host:    Translify
+   Kernel:  Vanilla JS — no framework
+   Shell:   bash
+   Uptime:  since 2026
+  ────────────────────────────
+   HTML  ██████████  100%
+   CSS   ████████░░   85%
+   JS    ███████░░░   80%
+  ────────────────────────────
+   🟩🟩⬛⬛
+```
 
 ---
 
