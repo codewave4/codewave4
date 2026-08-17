@@ -6,7 +6,7 @@
 ██████╔╝█████╗  ██║  ██║
 ██╔══██╗██╔══╝  ██║  ██║
 ██║  ██║███████╗██████╔╝
-╚═╝  ╚═╝╚══════╝╚═════╝
+═╝  ╚═╝╚══════╝╚═════╝
 ```
 
 `codewave4@github:~$ ./translify --from=fa --to=world 🌐`
@@ -83,7 +83,7 @@
 ### 🗺️ cat journey.log
 
 <p align="center">
-  <img src="assets/journey-timeline.svg" alt="مسیر من" width="720"/>
+  <img src="assets/journey-timeline.svg" alt="مسیر من" width="715"/>
 </p>
 
 ---
