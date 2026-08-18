@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=flat-square&logo=github"/>
@@ -59,6 +60,15 @@
       <a href="https://codewave4.github.io/zabanpeik/">🔗 Live Demo</a> ·
       <img src="https://img.shields.io/github/stars/codewave4/zabanpeik?style=flat-square&color=00e676"/> ·
       <img src="https://img.shields.io/github/v/release/codewave4/zabanpeik?style=flat-square&color=2dd4bf"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📡 <a href="https://github.com/codewave4/Scanner">Scanner</a></h3>
+      Cloudflare Clean-IP scanner — finds fast, unblocked Cloudflare IPs right in your browser.<br/>
+      Latency-based scan · no server · built for censored networks<br/><br/>
+      <a href="https://codewave4.github.io/Scanner/">🔗 Live Demo</a> ·
+      <img src="https://img.shields.io/github/stars/codewave4/Scanner?style=flat-square&color=00e676"/>
     </td>
   </tr>
 </table>
@@ -80,15 +90,7 @@
 
 ---
 
-### 🔥 python github-stats.py
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codewave4&theme=github-dark&ring=00e676&fire=00e676&currStreakLabel=00e676"/>
-</p>
-
----
-
-### 📈 cat activity-graph.md
+###  cat activity-graph.md
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewave4&bg_color=050807&color=9da5b0&line=00e676&point=00e676&area=true&hide_border=true&radius=6"/>
@@ -98,9 +100,9 @@
 
 ### 🎧 cat now.md
 
-| 🔨 Building | 📚 Learning | 🎯 Goal |
+| 🔨 Building | 📚 Learning |  Goal |
 |:-----------:|:-----------:|:-------:|
-| پورتفولیوی شخصی | PWA و Service Worker | وبِ خصوصی برای فارسی‌زبان‌ها |
+| Scanner v2 | PWA و Service Worker | وبِ خصوصی برای فارسی‌زبان‌ها |
 
 ---
 
